@@ -2,7 +2,9 @@ import React from 'react'
 
 const NewFeature = () => {
   return (
-    <div>NewFeature</div>
+    <div>
+        <h4>New feature this is not yet on the main branch</h4>
+    </div>
   )
 }
 
